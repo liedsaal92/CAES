@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">CAES</string>
-
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Name_Application">CAES</string>
+    <string name="Name_ESPAM">Escuela Superior Politécnica Agropecuaria de Manabí Manuel Félix López</string>
+    <string name="Derechos_autor">Santander Lincoln</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="inicio">Inicio de sessión</string>
+    <string name="ingresar">Ingresar</string>
+
 </resources>
